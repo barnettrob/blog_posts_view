@@ -1,0 +1,5 @@
+name: Blog Posts View
+type: module
+description: 'Alters taxonomy view to use custom Blog Posts view'
+package: Custom
+core: '8.x'

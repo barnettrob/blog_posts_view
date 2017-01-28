@@ -1,0 +1,5 @@
+services:
+  blog_posts_view.route_subscriber:
+    class: Drupal\blog_posts_view\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }
